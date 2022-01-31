@@ -1,3 +1,6 @@
-![animal-world-attention-branch-267074](https://user-images.githubusercontent.com/41354933/151879019-a2f6ccba-6c8b-4519-a68c-69682ffc375e.jpg)
 # Rchain_NFT
 ERC-721 standard in Rholang
+![kitty-eth](https://user-images.githubusercontent.com/41354933/151879345-acb130f9-9971-4618-abbb-23f515526c1a.svg)
+CryptoKitties is a blockchain game on Ethereum developed by Canadian studio Dapper Labs that allows players to purchase, collect, breed and sell virtual cats. It is one of the earliest attempts to deploy blockchain technology for recreation and leisure. The game's popularity in December 2017 congested the Ethereum network, causing it to reach an all-time high in the number of transactions and slowing it down significantly.
+![Bored Ape](https://user-images.githubusercontent.com/41354933/151879477-3fa47c1d-f5f2-4c3e-9097-8b1c3badebbc.png)
+Created by Yuga Labs and website launched on April 30th, 2021, the Bored Ape Yacht Club is a collection of 10,000 unique NFT digital collectible ape avatars. An NFT, otherwise known as, non-fungible token, acts as a deed of ownership for a digital item, allowing the purchaser to prove that they own the one-and-only version of that image. In this case, one holds ownership of an illustration of a bored-looking ape, each featuring different attributes and styles. No two images are alike and each Bored Ape is randomly generated from over 170 possible traits, which include expressions, headwear, clothing, and much more.
